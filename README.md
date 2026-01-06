@@ -1,1 +1,0 @@
-# ReSurgSAM2-main

@@ -1,0 +1,36 @@
+# ===============================
+# IDE & editor
+# ===============================
+.idea/
+.vscode/
+
+# ===============================
+# datasets & experiment outputs
+# ===============================
+project_root/datasets/
+project_root/checkpoints/
+project_root/results/
+project_root/sav_dataset/
+
+# ===============================
+# model weights
+# ===============================
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# ===============================
+# python cache & temp files
+# ===============================
+__pycache__/
+*.pyc
+*.pyo
+*.npy
+*.npz
+
+# ===============================
+# OS files
+# ===============================
+.DS_Store
+Thumbs.db
